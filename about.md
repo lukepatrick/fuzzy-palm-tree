@@ -1,14 +1,28 @@
 ---
+layout: page
 title: About
 permalink: /about/
 ---
+Welcome
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+You can find me on [Twitter](http://twitter.com/{{site.twitter_username}}) and [GitHub](http://github.com/{{site.github_username}}).
 
-You can find the source code for the Jekyll new theme at:
- /
-[minima](https://github.com/jekyll/minima)
+## Why blogging?
 
-You can find the source code for Jekyll at
- /
-[jekyll](https://github.com/jekyll/jekyll)
+About
+
+  - 
+  - 
+
+
+Feel free to subscribe to [RSS]({{site.url}}/feed.xml) (using [Blogtrottr](https://blogtrottr.com/) for example).
+
+## Personal projects
+
+  - **Foobar** - 
+  - 
+  -  
+
+
+## Under the hood
+The blog currently is built on [Jekyll](https://jekyllrb.com/). The site is hosted by [GitHub Pages](https://pages.github.com/), and posts from WordPress have been migrated. The site is using a [beautiful theme designed by Heiswayi Nrird](https://github.com/heiswayi/the-plain) with minor custom modifications.
