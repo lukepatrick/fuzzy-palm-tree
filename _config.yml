@@ -1,8 +1,8 @@
 # Site Info
 title:              "luke notes"
 description:        "Musings of software"
-google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
-google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
+#google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
+#google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
 author_name:        "Luke"
@@ -13,9 +13,9 @@ github_username:    lukepatrick # GitHub username
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
-permalink:          pretty # Post permalink
+permalink:          /fuzzy-palm-tree/:year/:month/:day/:title.html # Post permalink
 timezone:           US/Mountain # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-production_url:                "https://lukepatrick.github.io/fuzzy-palm-tree"
+production_url:     "https://lukepatrick.github.io"
 
 # Site Build
 highlighter:        rouge
