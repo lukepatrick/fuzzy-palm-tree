@@ -13,9 +13,9 @@ github_username:    lukepatrick # GitHub username
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
-permalink:          /notes/:title # Post permalink
+permalink:          pretty # Post permalink
 timezone:           US/Mountain # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-production_url:                ""
+production_url:                "https://lukepatrick.github.io/fuzzy-palm-tree"
 
 # Site Build
 highlighter:        rouge
